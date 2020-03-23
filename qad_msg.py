@@ -25,6 +25,7 @@
 
 from qgis.PyQt.QtCore import *
 from qgis.PyQt.QtGui  import * # for QDesktopServices
+from qgis._core import QgsSettings
 import os.path
 import sys
 
